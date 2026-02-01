@@ -5,6 +5,6 @@
 
   # bio369's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[bio369.github.io/penglab](https://bio369.github.io/penglab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
