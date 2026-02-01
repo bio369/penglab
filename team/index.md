@@ -20,11 +20,7 @@ nav:
 
 {% capture content %}
 
-{% include section.html %}
-
 {% include list.html data="alumni" component="portrait" filter="role != 'pi'" %}
-
-{% include section.html %}
 
 {% endcapture %}
 
