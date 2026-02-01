@@ -41,6 +41,9 @@ collections:
   posts:
     output: true
 
+  alumni:
+    output: true
+
 # jekyll plugins
 plugins:
   - jekyll-spaceship
