@@ -26,7 +26,7 @@ nav:
 {% include section.html %}
 <!-- {% endcapture %} -->
 
-{% include grid.html style="square" content=content %}
+<!-- {% include grid.html style="square" content=content %} -->
 
 
 
