@@ -1,6 +1,6 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
+name: Chuwei Wang
+image: images/wcw.jpg
 role: phd
 group: spatial omics
 

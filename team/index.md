@@ -18,11 +18,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% capture content %}
+<!-- {% capture content %} -->
+{% include section.html %}
 
 {% include list.html data="alumni" component="portrait" filter="role != 'pi'" %}
 
-{% endcapture %}
+{% include section.html %}
+<!-- {% endcapture %} -->
 
 {% include grid.html style="square" content=content %}
 

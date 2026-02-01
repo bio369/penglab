@@ -1,7 +1,7 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
-role: phd
+name: Wanling Zhao
+image: images/zwl.jpg
+role: manager
 group: spatial omics
 
 links:

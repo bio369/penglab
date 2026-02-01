@@ -1,7 +1,7 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
-role: phd
+name: Cheng Chen
+image: images/cc.jpg
+role: postdoc
 group: spatial omics
 
 links:

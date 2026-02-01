@@ -1,7 +1,7 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
-role: phd
+name: Yuanxin Liao
+image: images/lyx.jpg
+role: postdoc
 group: spatial omics
 
 links:

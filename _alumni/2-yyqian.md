@@ -1,7 +1,7 @@
 ---
 name: Yingying Qian
-image: images/gyz.png
-role: Associate Researcher
+image: images/qyy.jpg
+role: phd
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 
 links:

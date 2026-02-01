@@ -1,7 +1,7 @@
 ---
 name: Yao Yao
 image: images/yy.jpg
-role: phd
+role: postdoc
 group: spatial omics
 
 links:

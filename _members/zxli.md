@@ -1,7 +1,7 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
-role: phd
+name: Zhuxia Li
+image: images/lzx.jpg
+role: postdoc
 group: spatial omics
 
 links:
