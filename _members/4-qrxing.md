@@ -4,6 +4,9 @@ image: images/xqr.png
 role: Associate Researcher
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 
+links:
+  orcid: 0000-0003-1123-0373
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

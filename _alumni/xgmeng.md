@@ -1,12 +1,12 @@
 ---
-name: Liang Dong
-image: images/dl.png
+name: Xiaogao Meng
+image: images/xgm.png
 role: Associate Researcher
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 
 links:
-  orcid: 0009-0009-2352-5794
-
+  # orcid: 0009-0003-7401-8131
+  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
