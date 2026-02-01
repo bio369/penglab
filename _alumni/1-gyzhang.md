@@ -1,16 +1,11 @@
 ---
-name: Guangdun Peng
-image: images/pgd.png
-role: principal-investigator
+name: Guangyu Zhang
+image: images/gyz.png
+role: Associate Researcher
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
-aliases:
-  - P. Guangdun
-  - P Guangdun
+
 links:
-  home-page: https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html
-  orcid: 0000-0002-8586-0637
-  email: peng_guangdun@gibh.ac.cn
-  googlescholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en
+  orcid: 0000-0001-8171-1880
   
 ---
 

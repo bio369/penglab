@@ -1,7 +1,7 @@
 ---
 name: Qiaorui Xing
 image: images/xqr.png
-role: Associate Researcher
+role: associate-researcher
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 
 links:

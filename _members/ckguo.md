@@ -1,7 +1,7 @@
 ---
 name: Chenkai Guo
 image: images/gck.png
-role: Master Student
+role: ms
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 links:
   home-page: https://etaoik.github.io/

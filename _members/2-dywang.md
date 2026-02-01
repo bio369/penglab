@@ -1,7 +1,7 @@
 ---
 name: Dongye Wang
 image: images/wdy.png
-role: Associate Researcher
+role: associate-researcher
 affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 
 ---
