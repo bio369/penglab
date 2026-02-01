@@ -24,12 +24,16 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
+
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+<!-- {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
 
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+
+
+
