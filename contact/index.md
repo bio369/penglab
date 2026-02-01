@@ -20,8 +20,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="(+86)020-89851649"
+  link="+86-020-89851649"
 %}
 {%
   include button.html
@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/gibh1.png"
-  caption="GIBH, CAS"
+  image="images/gibh1.jpg"
+  caption="Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences"
 %}
 
 {% endcapture %}
@@ -46,7 +46,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/gibh2.png"
+  image="images/gibh2.jpg"
   caption="Human Cell Lineage Atlas Facility"
 %}
 
