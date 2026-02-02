@@ -1,17 +1,12 @@
 ---
-name: Guangdun Peng
-image: images/pgd.png
-role: principal-investigator
-affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
-aliases:
-  - P. Guangdun
-  - P Guangdun
+name: Qiaorui Xing
+image: images/xqr.png
+role: associate-researcher
+# affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
+
 links:
-  home-page: https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html
-  orcid: 0000-0002-8586-0637
-  email: peng_guangdun@gibh.ac.cn
-  googlescholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en
-  
+  orcid: 0000-0003-1123-0373
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

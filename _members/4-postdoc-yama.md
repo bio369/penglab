@@ -1,7 +1,7 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
-role: phd
+name: Yuang Ma
+image: images/mya.jpg
+role: postdoc
 group: spatial omics
 
 links:

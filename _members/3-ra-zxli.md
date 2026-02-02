@@ -1,7 +1,7 @@
 ---
-name: Yuanxin Liao
-image: images/lyx.jpg
-role: postdoc
+name: Zhuxia Li
+image: images/lzx.jpg
+role: ra
 group: spatial omics
 
 links:

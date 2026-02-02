@@ -1,8 +1,7 @@
 ---
-name: Yao Yao
-image: images/yy.jpg
-role: postdoc
-group: spatial omics
+name: Cheng Chen
+image: images/cc.jpg
+role: ra
 
 links:
   # orcid: 0009-0001-9099-1068

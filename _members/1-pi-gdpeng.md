@@ -1,12 +1,17 @@
 ---
-name: Liang Dong
-image: images/dl.png
-role: associate-researcher
-affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
-
+name: Guangdun Peng
+image: images/pgd.png
+role: principal-investigator
+# affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
+aliases:
+  - P. Guangdun
+  - P Guangdun
 links:
-  orcid: 0009-0009-2352-5794
-
+  home-page: https://english.gibh.cas.cn/people/faculty/202409/t20240905_684956.html
+  orcid: 0000-0002-8586-0637
+  email: peng_guangdun@gibh.ac.cn
+  googlescholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en
+  
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

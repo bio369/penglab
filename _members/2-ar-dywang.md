@@ -1,11 +1,8 @@
 ---
-name: Qiaorui Xing
-image: images/xqr.png
+name: Dongye Wang
+image: images/wdy.png
 role: associate-researcher
-affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
-
-links:
-  orcid: 0000-0003-1123-0373
+# affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 
 ---
 

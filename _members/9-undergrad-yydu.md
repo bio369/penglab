@@ -1,7 +1,7 @@
 ---
-name: Cheng Chen
-image: images/cc.jpg
-role: postdoc
+name: Yuanyuan Du
+image: images/dyy.jpg
+role: tech
 group: spatial omics
 
 links:
