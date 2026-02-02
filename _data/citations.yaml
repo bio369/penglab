@@ -117,7 +117,7 @@
     - Ge Gao†
   date: 2025-02-04
   publisher: Small Methods
-  image: 
+  image: images/PASSAGE.png
   plugin: orcid.py
   file: orcid.yaml
 
@@ -178,7 +178,7 @@
     - Dayu Hu†
   date: 2025-10-16
   publisher: arXiv
-  image: 
+  image: images/SPHENIC.png
   plugin: orcid.py
   file: orcid.yaml
 
