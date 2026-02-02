@@ -1,7 +1,8 @@
 ---
 name: Yuanyuan Du
 image: images/dyy.jpg
-role: tech
+role: undergrad
+# affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
 group: spatial omics
 
 links:

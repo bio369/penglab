@@ -11,7 +11,7 @@ links:
   email: peng_guangdun@gibh.ac.cn
   orcid: 0000-0002-8586-0637
   google-scholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en&oi=ao
-  github: https://github.com/gpenglab
+  github: gpenglab
 
 ### jekyll settings
 
@@ -25,6 +25,10 @@ defaults:
   # markdown files in /_members
   - scope:
       type: "members"
+    values:
+      layout: member
+  - scope:
+      type: "alumni"
     values:
       layout: member
   # markdown files in /_posts
