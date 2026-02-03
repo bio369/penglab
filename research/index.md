@@ -14,7 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Simultaneous profiling of spatial gene expression and chromatin accessibility during mouse brain development" style="rich" %}
+{% include citation.html lookup="Three-dimensional molecular architecture of mouse organogenesis" style="rich" %}
 
 {% include section.html %}
 
