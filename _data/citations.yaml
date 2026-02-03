@@ -1,559 +1,952 @@
-- title: "Spatial Chromatin Accessibility Analysis of Intratumor Heterogeneity in Breast Cancer"
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1101/2025.06.19.660613
+  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
   authors:
-    - Yingying Qian*
-    - Miao Zhu*
-    - Chongyang Ren*
-    - Yeyong Zhou
-    - Jian Xu
-    - Liang Dong
-    - Guangyu Zhang
-    - Cheukfai Li
-    - Jiaoyi Lv
-    - Qiaorui Xing†
-    - Guochun Zhang†
-    - Guangdun Peng†
-    - Ning Liao†
-  date: 2026-01-12
-  publisher: Genomics, Proteomics & Bioinformatics
+  - Dave Bunten
+  - Jenna Tomkinson
+  - Erik Serrano
+  - Michael J. Lippincott
+  - Kenneth I. Brewer
+  - Vince Rubinetti
+  - Faisal Alquaddoomi
+  - Gregory P. Way
+  publisher: openRxiv
+  date: '2025-06-25'
+  link: https://doi.org/g9rfr3
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad1082
+  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
+    \ genes\_and diseases across species"
+  authors:
+  - Tim E Putman
+  - Kevin Schaper
+  - Nicolas Matentzoglu
+  - "Vincent\_P Rubinetti"
+  - "Faisal\_S Alquaddoomi"
+  - Corey Cox
+  - J Harry Caufield
+  - Glass Elsarboukh
+  - Sarah Gehrke
+  - Harshad Hegde
+  - "Justin\_T Reese"
+  - Ian Braun
+  - "Richard\_M Bruskiewich"
+  - Luca Cappelletti
+  - Seth Carbon
+  - "Anita\_R Caron"
+  - "Lauren\_E Chan"
+  - "Christopher\_G Chute"
+  - "Katherina\_G Cortes"
+  - "Vin\xEDcius De\_Souza"
+  - Tommaso Fontana
+  - "Nomi\_L Harris"
+  - "Emily\_L Hartley"
+  - Eric Hurwitz
+  - "Julius\_O B Jacobsen"
+  - Madan Krishnamurthy
+  - "Bryan\_J Laraway"
+  - "James\_A McLaughlin"
+  - "Julie\_A McMurry"
+  - "Sierra\_A T Moxon"
+  - "Kathleen\_R Mullen"
+  - "Shawn\_T O\u2019Neil"
+  - "Kent\_A Shefchek"
+  - Ray Stefancsik
+  - Sabrina Toro
+  - "Nicole\_A Vasilevsky"
+  - "Ramona\_L Walls"
+  - "Patricia\_L Whetzel"
+  - David Osumi-Sutherland
+  - Damian Smedley
+  - "Peter\_N Robinson"
+  - "Christopher\_J Mungall"
+  - "Melissa\_A Haendel"
+  - "Monica\_C Munoz-Torres"
+  publisher: Nucleic Acids Research
+  date: '2023-11-24'
+  link: https://doi.org/gs6kmr
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.11.560955
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: openRxiv
+  date: '2023-10-11'
+  link: https://doi.org/gsvf5z
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+  authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.05.522941
+  title: Hetnet connectivity search provides rapid insights into how two biomedical
+    entities are related
+  authors:
+  - Daniel S. Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J. Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N. Nicholson
+  - Yun Hao
+  - Blair D. Sullivan
+  - Michael W. Nagle
+  - Casey S. Greene
+  publisher: openRxiv
+  date: '2023-01-07'
+  link: https://doi.org/grmcb9
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giad047
+  title: Hetnet connectivity search provides rapid insights into how biomedical entities
+    are related
+  authors:
+  - Daniel S Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N Nicholson
+  - Yun Hao
+  - Blair D Sullivan
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: GigaScience
+  date: '2022-12-28'
+  link: https://doi.org/gsd85n
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.02.18.461833
+  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
+    and phylogeny'
+  authors:
+  - Faisal S Alquaddoomi
+  - Joseph T Burke
+  - Lo Sosinski
+  - David A Mayer
+  - Evan P Brenner
+  - Samuel Z Chen
+  - Jacob D Krol
+  - Ethan P Wolfe
+  - Vincent P Rubinetti
+  - Shaddai Amolitos
+  - Kellen M Reason
+  - John B Johnston
+  - Janani Ravi
+  publisher: openRxiv
+  date: '2022-02-22'
+  link: https://doi.org/gstx7j
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-020-02021-3
+  title: Compressing gene expression data using multiple latent space dimensionalities
+    learns complementary biological representations
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2020-05-11'
+  link: https://doi.org/gg2mjh
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2019-06-24'
+  link: https://doi.org/c7np
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/573782
+  title: Sequential compression of gene expression across dimensionalities and methods
+    reveals no single best method or dimensionality
+  authors:
+  - Gregory P. Way
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: openRxiv
+  date: '2019-03-11'
+  link: https://doi.org/gfxjxf
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gpbjnl/qzag001
+  title: Spatial Chromatin Accessibility Analysis of Intratumor Heterogeneity in Breast
+    Cancer
+  authors:
+  - Yingying Qian
+  - Miao Zhu
+  - Chongyang Ren
+  - Yeyong Zhou
+  - Jian Xu
+  - Liang Dong
+  - Guangyu Zhang
+  - Cheukfai Li
+  - Jiaoyi lv
+  - Qiaorui Xing
+  - Guochun Zhang
+  - Guangdun Peng
+  - Ning Liao
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2026-01-12'
+  link: https://doi.org/hbnjwm
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gpb/PAP/10.1093_gpbjnl_qzag001/1/qzag001f1.jpeg?Expires=1773063935&Signature=mZA2XRx1tt5Vt72HSm6wePlOdm0ifnp8TOawq-meDKvtnWRPVGzQ1P5gUDV~lrygNg-pUTjRNWHZZSoIe-37bHnkAZGL5khdueyfrgDQJhP6ADzTGNjs4n~JfRaBPXN9Y3Yo6uXx9bgP-owR9stSii5KaHEoM4TekB2SFHWbitX2CC~htEn-IX9lzg0KiqiWlkWojxxXbo~7SmFuLVjl62Uy09zRtSrJ7w6-SJ3H27wUD5c9G0qqEZIbuPwEoYyowiea68QBsITNVeXn2egKTqP8G3mtc~FBC39XwYGJOWcVWkQnHZM0EIPkyFd0KmyDP61U11MmLFnAOh2NUg5TlQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Dissecting the Spatial and Single‐Cell Transcriptomic Architecture of Cancer Stem Cell Niche Driving Tumor Progression in Gastric Cancer"
+  type: paper
+  tags:
+  - Breast Cancer
+  - Spatial-ATAC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/advs.202413019
+  title: "Dissecting the Spatial and Single\u2010Cell Transcriptomic Architecture\
+    \ of Cancer Stem Cell Niche Driving Tumor Progression in Gastric Cancer"
   authors:
-    - Guangyu Zhang*
-    - Xin Zhang
-    - Wenting Pan
-    - Xizhao Chen
-    - Lingfei Wan
-    - Chunjie Liu
-    - Yuting Yong
-    - Yue Zhao
-    - Shuli Sang
-    - Lihua Zhang
-    - Sheng Yao
-    - Yushu Guo
-    - Mingmei Wang
-    - Xinhui Wang
-    - Guangdun Peng†
-    - Xinlong Yan†
-    - Yanchun Wang†
-    - Min Zhang†
-  date: 2025-08-14
+  - Guangyu Zhang
+  - Xin Zhang
+  - Wenting Pan
+  - Xizhao Chen
+  - Lingfei Wan
+  - Chunjie Liu
+  - Yuting Yong
+  - Yue Zhao
+  - Shuli Sang
+  - Lihua Zhang
+  - Sheng Yao
+  - Yushu Guo
+  - Mingmei Wang
+  - Xinhui Wang
+  - Guangdun Peng
+  - Xinlong Yan
+  - Yanchun Wang
+  - Min Zhang
   publisher: Advanced Science
+  date: '2025-08-14'
+  link: https://doi.org/hbnjwn
   image: https://advanced.onlinelibrary.wiley.com/cms/asset/787625d6-3ec0-4fe8-904e-49890ec9c474/advs11167-fig-0001-m.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "A complete model of mouse embryogenesis through organogenesis enabled by chemically induced embryo founder cells"
+  type: paper
+  tags:
+  - Gastric Cancer
+  - Single-cell RNA-seq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cell.2025.07.018
+  title: A complete model of mouse embryogenesis through organogenesis enabled by
+    chemically induced embryo founder cells
   authors:
-    - Huanhuan Li*†
-    - Wei Guan*
-    - Jiahui Huang*
-    - Penglei Shen*
-    - Jinyi Wu
-    - Haiping Luo
-    - Yun Yang
-    - Shaoqiang Ning
-    - Litao Chang
-    - Haiyong Zhao
-    - Chuanxin Chen
-    - Yake Gao
-    - Yaoyu Chen
-    - Xianfa Yang
-    - Yael Costa
-    - Chen-Leng Cai
-    - Duanqing Pei
-    - Guangdun Peng
-    - Guangming Wu
-    - Jiekai Chen
-    - Jian Zhang
-    - Naihe Jing†
-    - José CR Silva†
-  date: 2025-07-15
+  - Huanhuan Li
+  - Wei Guan
+  - Jiahui Huang
+  - Penglei Shen
+  - Jinyi Wu
+  - Haiping Luo
+  - Yun Yang
+  - Shaoqiang Ning
+  - Litao Chang
+  - Haiyong Zhao
+  - Chuanxin Chen
+  - Yake Gao
+  - Yaoyu Chen
+  - Xianfa Yang
+  - Yael Costa
+  - Chen-Leng Cai
+  - Duanqing Pei
+  - Guangdun Peng
+  - Guangming Wu
+  - Jiekai Chen
+  - Jian Zhang
+  - Naihe Jing
+  - "Jos\xE9 C.R. Silva"
   publisher: Cell
+  date: '2025-07-15'
+  link: https://doi.org/g9wzp5
   image: https://www.cell.com/cms/10.1016/j.cell.2025.07.018/asset/5522710c-b69f-4c61-bdda-c8e1da7d2036/main.assets/fx1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "High-resolution mapping of single cells in spatial context"
+  type: paper
+  tags:
+  - Embryogenesis
+  - Stem Cells
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-025-61667-4
+  title: High-resolution mapping of single cells in spatial context
   authors:
-    - Jincan Ke*
-    - Jian Xu
-    - Jia Liu
-    - Yumeng Yang
-    - Chenkai Guo
-    - Bingbing Xie
-    - Guizhong Cui
-    - Guangdun Peng†
-    - Shengbao Suo†
-  date: 2025-07-15
+  - Jincan Ke
+  - Jian Xu
+  - Jia Liu
+  - Yumeng Yang
+  - Chenkai Guo
+  - Bingbing Xie
+  - Guizhong Cui
+  - Guangdun Peng
+  - Shengbao Suo
   publisher: Nature Communications
+  date: '2025-07-15'
+  link: https://doi.org/hbnjwp
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61667-4/MediaObjects/41467_2025_61667_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Dual-nuclease single-cell lineage tracing by Cas9 and Cas12a"
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/SuoLab-GZLab/CMAP
+  tags:
+  - High-resolution scRNA-seq Mapping
+  - Spatial Deconvolution
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2024.115105
+  title: Dual-nuclease single-cell lineage tracing by Cas9 and Cas12a
   authors:
-    - Cheng Chen*
-    - Yuanxin Liao*
-    - Miao Zhu*
-    - Li Wang
-    - Xinran Yu
-    - Meishi Li
-    - Guangdun Peng†
-  date: 2025-01-28
+  - Cheng Chen
+  - Yuanxin Liao
+  - Miao Zhu
+  - Li Wang
+  - Xinran Yu
+  - Meishi Li
+  - Guangdun Peng
   publisher: Cell Reports
+  date: '2025-01-28'
+  link: https://doi.org/g84wr5
   image: https://www.cell.com/cms/10.1016/j.celrep.2024.115105/asset/9d4ffbc8-c476-40f2-a291-9238d73ab3fc/main.assets/fx1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Learning phenotype associated signature in spatial transcriptomics with PASSAGE"
+  type: paper
+  tags:
+  - Lineage Tracing
+  - CRISPR/Cas
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/smtd.202401451
+  title: Learning Phenotype Associated Signature in Spatial Transcriptomics with PASSAGE
   authors:
-    - Chen-Kai Guo*
-    - Chen-Rui Xia*
-    - Guangdun Peng†
-    - Zhi-Jie Cao†
-    - Ge Gao†
-  date: 2025-02-04
+  - "Chen\u2010Kai Guo"
+  - "Chen\u2010Rui Xia"
+  - Guangdun Peng
+  - "Zhi\u2010Jie Cao"
+  - Ge Gao
   publisher: Small Methods
-  image: images/PASSAGE.png
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Spatiotemporal transcriptome atlas of developing mouse lung"
+  date: '2025-02-04'
+  link: https://doi.org/hbnjwq
+  image: ./images/PASSAGE.png
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/gao-lab/PASSAGE
+  tags:
+  - Multi-slice Spatial Analysis
+  - Graph Attention Network
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.scib.2025.03.012
+  title: Spatiotemporal transcriptome atlas of developing mouse lung
   authors:
-    - Xiaogao Meng*
-    - Wenjia Li*
-    - Jian Xu
-    - Yao Yao
-    - An Gong
-    - Yumeng Yang
-    - Fangfang Qu
-    - Chenkai Guo
-    - Hui Zheng
-    - Guizhong Cui†
-    - Shengbao Suo†
-    - Guangdun Peng†
-  date: 2025-03-10
+  - Xiaogao Meng
+  - Wenjia Li
+  - Jian Xu
+  - Yao Yao
+  - An Gong
+  - Yumeng Yang
+  - Fangfang Qu
+  - Chenkai Guo
+  - Hui Zheng
+  - Guizhong Cui
+  - Shengbao Suo
+  - Guangdun Peng
   publisher: Science Bulletin
+  date: '2025-03-10'
+  link: https://doi.org/hbnjwr
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2095927325002403-ga1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Spatial and single-cell transcriptomics landscape of adenomyosis"
+  type: paper
+  tags:
+  - Spatiotemporal Atlas
+  - Lung Development
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.jare.2025.12.042
+  title: Spatial and single-cell transcriptomics landscape of adenomyosis
   authors:
-    - Xing Yang*
-    - Chunjie Li*
-    - Junxian He*
-    - Bingbing Xie
-    - Linyan Lv
-    - Jian Xu
-    - Yuan Lin
-    - Chuanchuan Zhou
-    - Manchao Li
-    - Zhi Zeng
-    - Jinfeng Tan
-    - Shuqin Chen
-    - Guizhong Cui
-    - Guihua Liu
-    - Shengbao Suo†
-    - Guangdun Peng†
-    - Xiaoyan Liang†
-  date: 2025-12-26
+  - Xing Yang
+  - Chunjie Li
+  - Junxian He
+  - Bingbing Xie
+  - Linyan Lv
+  - Jian Xu
+  - Yuan Lin
+  - Chuanchuan Zhou
+  - Manchao Li
+  - Zhi Zeng
+  - Jinfeng Tan
+  - Shuqin Chen
+  - Guizhong Cui
+  - Guihua Liu
+  - Shengbao Suo
+  - Guangdun Peng
+  - Xiaoyan Liang
   publisher: Journal of Advanced Research
+  date: '2025-12-26'
+  link: https://doi.org/hbnjws
   image: https://ars.els-cdn.com/content/image/1-s2.0-S209012322501032X-ga1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "SPHENIC: Topology-Aware Multi-View Clustering for Spatial Transcriptomics"
+  type: paper
+  tags:
+  - Adenomyosis
+  - Transcriptomics Landscape
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2508.10646
+  title: 'SPHENIC: Topology-Aware Multi-View Clustering for Spatial Transcriptomics'
   authors:
-    - Chenkai Guo*
-    - Yikai Zhu
-    - Renxiang Guan
-    - Jinli Ma
-    - Siwei Wang
-    - Ke Liang
-    - Guangdun Peng
-    - Dayu Hu†
-  date: 2025-10-16
+  - Chenkai Guo
+  - Yikai Zhu
+  - Renxiang Guan
+  - Jinli Ma
+  - Siwei Wang
+  - Ke Liang
+  - Guangdun Peng
+  - Dayu Hu
   publisher: arXiv
-  image: images/SPHENIC.png
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Leveraging spatial multiomics to unravel tissue architecture in embryo development"
+  date: '2025-10-16'
+  link: https://arxiv.org/abs/2508.10646
+  image: ./images/SPHENIC.png
+  type: paper
+  tags:
+  - Persistent Homology
+  - Multi-View Clustering
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.tig.2024.11.007
+  title: Leveraging spatial multiomics to unravel tissue architecture in embryo development
   authors:
-    - Fuqing Jiang*
-    - Haoxian Wang*
-    - Zhuxia Li
-    - Guizhong Cui
-    - Guangdun Peng†
-  date: 2025-01-28
+  - Fuqing Jiang
+  - Haoxian Wang
+  - Zhuxia Li
+  - Guizhong Cui
+  - Guangdun Peng
   publisher: Trends in Genetics
+  date: '2025-01-28'
+  link: https://doi.org/hbnjwt
   image: https://www.cell.com/cms/10.1016/j.tig.2024.11.007/asset/e013afc9-ab76-45ec-9add-e887c54353ae/main.assets/gr1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Systematic comparison of sequencing-based spatial transcriptomic methods"
+  type: paper
+  tags:
+  - Spatial Multiomics
+  - Embryo Development
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-024-02325-3
+  title: Systematic comparison of sequencing-based spatial transcriptomic methods
   authors:
-    - Yue You*
-    - Yuting Fu
-    - Lanxiang Li
-    - Zhongmin Zhang
-    - Shikai Jia
-    - Shihong Lu
-    - Wenle Ren
-    - Yifang Liu
-    - Yang Xu
-    - Xiaojing Liu
-    - Fuqing Jiang
-    - Guangdun Peng
-    - Abhishek Sampath Kumar
-    - Matthew E Ritchie
-    - Xiaodong Liu†
-    - Luyi Tian†
-  date: 2024-07-04
-  publisher: Nature methods
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-024-02325-3/MediaObjects/41592_2024_2325_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Unveiling inflammatory and prehypertrophic cell populations as key contributors to knee cartilage degeneration in osteoarthritis using multi-omics data integration"
-  authors:
-    - Yue Fan*
-    - Xuzhao Bian
-    - Xiaogao Meng
-    - Lei Li
-    - Laiyi Fu
-    - Yanan Zhang
-    - Long Wang
-    - Yan Zhang
-    - Dalong Gao
-    - Xiong Guo
-    - Mikko Juhani Lammi
-    - Guangdun Peng†
-    - Shiquan Sun†
-  date: 2024-07-01
-  publisher: Annals of the Rheumatic Diseases
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0003496724000840-gr1.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Surface-functionalizing strategies for multiplexed molecular biosensing: developments powered by advancements in nanotechnologies"
-  authors:
-    - Shangjie Zou*
-    - Guangdun Peng†
-    - Zhiqiang Ma†
-  date: 2024-12-14
-  publisher: Nanomaterials
-  image: https://www.mdpi.com/nanomaterials/nanomaterials-14-02014/article_deploy/html/images/nanomaterials-14-02014-g001.png
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "A spatiotemporal molecular atlas of mouse spinal cord injury identifies a distinct astrocyte subpopulation and therapeutic potential of IGFBP2"
-  authors:
-    - Zeqing Wang*
-    - Zhuxia Li*
-    - Tianle Luan*
-    - Guizhong Cui
-    - Shunpan Shu
-    - Yiyao Liang
-    - Kai Zhang
-    - Jingshu Xiao
-    - Wei Yu
-    - Jihong Cui
-    - Ang Li†
-    - Guangdun Peng†
-    - Yanshan Fang†
-  date: 2024-10-21
-  publisher: Developmental Cell
-  image: https://www.cell.com/cms/10.1016/j.devcel.2024.06.016/asset/e3887f76-4f1b-41e2-babb-f0d450c9fb54/main.assets/fx1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Simultaneous profiling of spatial gene expression and chromatin accessibility during mouse brain development"
-  authors:
-    - Fuqing Jiang*
-    - Xin Zhou*
-    - Yingying Qian*
-    - Miao Zhu*
-    - Li Wang
-    - Zhuxia Li
-    - Qingmei Shen
-    - Minhan Wang
-    - Fangfang Qu
-    - Guizhong Cui
-    - Kai Chen
-    - Guangdun Peng†
-  date: 2023-07-31
+  - Yue You
+  - Yuting Fu
+  - Lanxiang Li
+  - Zhongmin Zhang
+  - Shikai Jia
+  - Shihong Lu
+  - Wenle Ren
+  - Yifang Liu
+  - Yang Xu
+  - Xiaojing Liu
+  - Fuqing Jiang
+  - Guangdun Peng
+  - Abhishek Sampath Kumar
+  - Matthew E. Ritchie
+  - Xiaodong Liu
+  - Luyi Tian
   publisher: Nature Methods
+  date: '2024-07-04'
+  link: https://doi.org/gt5f86
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-024-02325-3/MediaObjects/41592_2024_2325_Fig1_HTML.png?as=webp
+  type: paper
+  tags:
+  - Benchmarking
+  - Spatial Technology
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1136/ard-2023-224420
+  title: Unveiling inflammatory and prehypertrophic cell populations as key contributors
+    to knee cartilage degeneration in osteoarthritis using multi-omics data integration
+  authors:
+  - Yue Fan
+  - Xuzhao Bian
+  - Xiaogao Meng
+  - Lei Li
+  - Laiyi Fu
+  - Yanan Zhang
+  - Long Wang
+  - Yan Zhang
+  - Dalong Gao
+  - Xiong Guo
+  - Mikko Juhani Lammi
+  - Guangdun Peng
+  - Shiquan Sun
+  publisher: Annals of the Rheumatic Diseases
+  date: '2024-07-01'
+  link: https://doi.org/gth994
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0003496724000840-gr1.jpg
+  type: paper
+  tags:
+  - Osteoarthritis
+  - Cartilage Degeneration
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/nano14242014
+  title: 'Surface-Functionalizing Strategies for Multiplexed Molecular Biosensing:
+    Developments Powered by Advancements in Nanotechnologies'
+  authors:
+  - Shangjie Zou
+  - Guangdun Peng
+  - Zhiqiang Ma
+  publisher: Nanomaterials
+  date: '2024-12-14'
+  link: https://doi.org/hbnjwv
+  image: https://www.mdpi.com/nanomaterials/nanomaterials-14-02014/article_deploy/html/images/nanomaterials-14-02014-g001.png
+  type: paper
+  tags:
+  - Nanotechnology
+  - Molecular Biosensing
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.devcel.2024.06.016
+  title: A spatiotemporal molecular atlas of mouse spinal cord injury identifies a
+    distinct astrocyte subpopulation and therapeutic potential of IGFBP2
+  authors:
+  - Zeqing Wang
+  - Zhuxia Li
+  - Tianle Luan
+  - Guizhong Cui
+  - Shunpan Shu
+  - Yiyao Liang
+  - Kai Zhang
+  - Jingshu Xiao
+  - Wei Yu
+  - Jihong Cui
+  - Ang Li
+  - Guangdun Peng
+  - Yanshan Fang
+  publisher: Developmental Cell
+  date: '2024-10-21'
+  link: https://doi.org/gt46xj
+  image: https://www.cell.com/cms/10.1016/j.devcel.2024.06.016/asset/e3887f76-4f1b-41e2-babb-f0d450c9fb54/main.assets/fx1_lrg.jpg
+  type: paper
+  tags:
+  - Spinal Cord Injury
+  - Astrocyte Atlas
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41592-023-01884-1
+  title: Simultaneous profiling of spatial gene expression and chromatin accessibility
+    during mouse brain development
+  authors:
+  - Fuqing Jiang
+  - Xin Zhou
+  - Yingying Qian
+  - Miao Zhu
+  - Li Wang
+  - Zhuxia Li
+  - Qingmei Shen
+  - Minhan Wang
+  - Fangfang Qu
+  - Guizhong Cui
+  - Kai Chen
+  - Guangdun Peng
+  publisher: Nature Methods
+  date: '2023-07-31'
+  link: https://doi.org/gtn3sj
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-023-01884-1/MediaObjects/41592_2023_1884_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Lung development and regeneration: newly defined cell types and progenitor status"
+  type: paper
+  buttons:
+  - type: github
+    link: https://github.com/gpenglab/MISAR-seq
+  tags:
+  - Spatial RNA+ATAC seq
+  - Brain Development
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:/10.1186/s13619-022-00149-0
+  title: 'Lung development and regeneration: newly defined cell types and progenitor
+    status'
   authors:
-    - Xiaogao Meng*
-    - Guizhong Cui†
-    - Guangdun Peng†
-  date: 2023-04-03
+  - Xiaogao Meng
+  - Guizhong Cui
+  - Guangdun Peng
   publisher: Cell Regeneration
+  date: '2023-04-03'
+  link: https://doi.org/hbnjww
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13619-022-00149-0/MediaObjects/13619_2022_149_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Three-dimensional molecular architecture of mouse organogenesis"
+  type: paper
+  tags:
+  - Lung Regeneration
+  - Progenitor Status
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-023-40155-7
+  title: Three-dimensional molecular architecture of mouse organogenesis
   authors:
-    - Fangfang Qu*
-    - Wenjia Li
-    - Jian Xu
-    - Ruifang Zhang
-    - Jincan Ke
-    - Xiaodie Ren
-    - Xiaogao Meng
-    - Lexin Qin
-    - Jingna Zhang
-    - Fangru Lu
-    - Xin Zhou
-    - Xi Luo
-    - Zhen Zhang
-    - Minhan Wang
-    - Guangming Wu
-    - Duanqing Pei
-    - Jiekai Chen
-    - Guizhong Cui†
-    - Shengbao Suo†
-    - Guangdun Peng†
-  date: 2023-04-03
+  - Fangfang Qu
+  - Wenjia Li
+  - Jian Xu
+  - Ruifang Zhang
+  - Jincan Ke
+  - Xiaodie Ren
+  - Xiaogao Meng
+  - Lexin Qin
+  - Jingna Zhang
+  - Fangru Lu
+  - Xin Zhou
+  - Xi Luo
+  - Zhen Zhang
+  - Minhan Wang
+  - Guangming Wu
+  - Duanqing Pei
+  - Jiekai Chen
+  - Guizhong Cui
+  - Shengbao Suo
+  - Guangdun Peng
   publisher: Nature Communications
+  date: '2023-04-03'
+  link: https://doi.org/hbnjwx
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-40155-7/MediaObjects/41467_2023_40155_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Generation of functional posterior spinal motor neurons from hPSCs-derived human spinal cord neural progenitor cells"
+  type: paper
+  tags:
+  - 3D Architecture
+  - Organogenesis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13619-023-00159-6
+  title: Generation of functional posterior spinal motor neurons from hPSCs-derived
+    human spinal cord neural progenitor cells
   authors:
-    - He Jax Xu*
-    - Yao Yao*
-    - Fenyong Yao*
-    - Jiehui Chen*
-    - Meishi Li*
-    - Xianfa Yang
-    - Sheng Li
-    - Fangru Lu
-    - Ping Hu
-    - Shuijin He†
-    - Guangdun Peng†
-    - Naihe Jing†
-  date: 2023-03-23
+  - He Jax Xu
+  - Yao Yao
+  - Fenyong Yao
+  - Jiehui Chen
+  - Meishi Li
+  - Xianfa Yang
+  - Sheng Li
+  - Fangru Lu
+  - Ping Hu
+  - Shuijin He
+  - Guangdun Peng
+  - Naihe Jing
   publisher: Cell Regeneration
+  date: '2023-03-23'
+  link: https://doi.org/g77gp6
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13619-023-00159-6/MediaObjects/13619_2023_159_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Single-cell technologies: From research to application"
+  type: paper
+  tags:
+  - Motor Neurons
+  - Neural Progenitors
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.xinn.2022.100342
+  title: 'Single-cell technologies: From research to application'
   authors:
-    - Lu Wen*
-    - Guoqiang Li*
-    - Tao Huang*
-    - Wei Geng*
-    - Hao Pei*
-    - Jialiang Yang*
-    - Miao Zhu*
-    - Pengfei Zhang*
-    - Rui Hou
-    - Geng Tian
-    - Wentao Su
-    - Jian Chen
-    - Dake Zhang
-    - Pingan Zhu
-    - Wei Zhang
-    - Xiuxin Zhang
-    - Ning Zhang
-    - Yunlong Zhao
-    - Xin Cao†
-    - Guangdun Peng†
-    - Xianwen Ren†
-    - Nan Jiang†
-    - Caihuan Tian†
-    - Zi-Jiang Chen†
-  date: 2022-08-30
+  - Lu Wen
+  - Guoqiang Li
+  - Tao Huang
+  - Wei Geng
+  - Hao Pei
+  - Jialiang Yang
+  - Miao Zhu
+  - Pengfei Zhang
+  - Rui Hou
+  - Geng Tian
+  - Wentao Su
+  - Jian Chen
+  - Dake Zhang
+  - Pingan Zhu
+  - Wei Zhang
+  - Xiuxin Zhang
+  - Ning Zhang
+  - Yunlong Zhao
+  - Xin Cao
+  - Guangdun Peng
+  - Xianwen Ren
+  - Nan Jiang
+  - Caihuan Tian
+  - Zi-Jiang Chen
   publisher: The Innovation
+  date: '2022-08-30'
+  link: https://doi.org/gs9fhx
   image: https://www.cell.com/cms/10.1016/j.xinn.2022.100342/asset/af857c48-e723-465f-9d0f-0356ba2ec713/main.assets/fx1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Connecting past and present: single-cell lineage tracing"
+  type: paper
+  tags:
+  - Single-cell Technologies
+  - Clinical Application
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s13238-022-00913-7
+  title: 'Connecting past and present: single-cell lineage tracing'
   authors:
-    - Cheng Chen*†
-    - Yuanxin Liao
-    - Guangdun Peng†
-  date: 2022-06-30
-  publisher: Protein & Cell
+  - Cheng Chen
+  - Yuanxin Liao
+  - Guangdun Peng
+  publisher: Protein &amp; Cell
+  date: '2022-06-30'
+  link: https://doi.org/hbnjwz
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/proteincell/13/11/10.1007_s13238-022-00913-7/2/m_13238_2022_913_fig1_html.jpeg?Expires=1771370557&Signature=2gZRokvqO1RDzgpptHfBpbXuT5hVVo9AI8C-h8UZpauohcCjM6RDqqO9LsirOHJXjXdtRZru0QakHWwcpeHtbPh6Dvaql05ZR2DeqfQvaQfG4yhjdenA-DOBw1ia97QsiOZUu5hOTkFQSXTYzTg9v3Z6ep4cCEZg2ff-aZMt4UMGCQKovx80DAt7t1jVxj-ORlxnsQh6B7-6m3hgsRjqol5-a~04Fj8h2FSM9Y7OkXZvYhjgin3uOKVt5f0AITMUhlkClbm5ztuuOid9BiRgOc1PpuWwFTSX68T9qB3CrHT33ZYHeCaD37ixNPmTmLtm3xyS5UQQVo3AWT4o8rhPPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Spatial molecular anatomy of germ layers in the gastrulating cynomolgus monkey embryo"
+  type: paper
+  tags:
+  - Lineage Tracing
+  - Review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2022.111285
+  title: Spatial molecular anatomy of germ layers in the gastrulating cynomolgus monkey
+    embryo
   authors:
-    - Guizhong Cui*
-    - Su Feng*
-    - Yaping Yan*
-    - Li Wang
-    - Xiechao He
-    - Xi Li
-    - Yanchao Duan
-    - Jun Chen
-    - Ke Tang
-    - Ping Zheng
-    - Patrick PL Tam
-    - Wei Si†
-    - Naihe Jing†
-    - Guangdun Peng†
-  date: 2022-11-08
+  - Guizhong Cui
+  - Su Feng
+  - Yaping Yan
+  - Li Wang
+  - Xiechao He
+  - Xi Li
+  - Yanchao Duan
+  - Jun Chen
+  - Ke Tang
+  - Ping Zheng
+  - Patrick P.L. Tam
+  - Wei Si
+  - Naihe Jing
+  - Guangdun Peng
   publisher: Cell Reports
+  date: '2022-11-08'
+  link: https://doi.org/hbnjw2
   image: https://www.cell.com/cms/10.1016/j.celrep.2022.111285/asset/2cb40400-909d-481c-a2ce-1f5cb7f38996/main.assets/fx1_lrg.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Spatial transcriptomics: new dimension of understanding biological complexity"
+  type: paper
+  tags:
+  - Primate Embryo
+  - Germ Layers
+  plugin: sources.py
+  file: sources.yaml
+- id: pmc:PMC10189652
+  title: 'Spatial transcriptomics: new dimension of understanding biological complexity'
   authors:
-    - Zhuxia Li*
-    - Guangdun Peng†
-  date: 2022-06-30
-  publisher: Biophysics Reports
+  - Zhuxia Li
+  - Guangdun Peng
+  publisher: Biophysics reports
+  date: '2022-06-30'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10189652/
   image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/dc7f/10189652/2bae25a3a98b/br-8-3-119-1.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Base editing-mediated perturbation of endogenous PKM1/2 splicing facilitates isoform-specific functional analysis in vitro and in vivo"
+  type: paper
+  tags:
+  - Spatial Transcriptomics
+  - Biological Complexity
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/cpr.13096
+  title: "Base editing\u2010mediated perturbation of endogenous PKM1/2 splicing facilitates\
+    \ isoform\u2010specific functional analysis in vitro and in vivo"
   authors:
-    - Jianxiang Lin*
-    - Susu Wu*
-    - Qingmei Shen*
-    - Jie Liu
-    - Shisheng Huang
-    - Guangdun Peng†
-    - Yunbo Qiao†
-  date: 2021-07-09
-  publisher: Cell proliferation
+  - Jianxiang Lin
+  - Susu Wu
+  - Qingmei Shen
+  - Jie Liu
+  - Shisheng Huang
+  - Guangdun Peng
+  - Yunbo Qiao
+  publisher: Cell Proliferation
+  date: '2021-07-09'
+  link: https://doi.org/hbnjw3
   image: https://onlinelibrary.wiley.com/cms/asset/e4279213-187e-457f-bd67-bb2f092f871a/cpr13096-fig-0001-m.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "RNA helicase DDX5 acts as a critical regulator for survival of neonatal mouse gonocytes"
+  type: paper
+  tags:
+  - Base Editing
+  - Isoform Analysis
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/cpr.13000
+  title: RNA helicase DDX5 acts as a critical regulator for survival of neonatal mouse
+    gonocytes
   authors:
-    - Qing Xia*
-    - Guizhong Cui*
-    - Ye Fan*
-    - Xiuqin Wang
-    - Gongcheng Hu
-    - Lisha Wang
-    - Xi Luo
-    - Lele Yang
-    - Qingqing Cai
-    - Kaibiao Xu
-    - Wenjing Guo
-    - Minghui Gao
-    - Yingying Li
-    - Ji Wu
-    - Wei Li
-    - Jiayu Chen
-    - Huayu Qi
-    - Guangdun Peng†
-    - Hongjie Yao†
-  date: 2021-03-05
-  publisher: Cell proliferation
+  - Qing Xia
+  - Guizhong Cui
+  - Ye Fan
+  - Xiuqin Wang
+  - Gongcheng Hu
+  - Lisha Wang
+  - Xi Luo
+  - Lele Yang
+  - Qingqing Cai
+  - Kaibiao Xu
+  - Wenjing Guo
+  - Minghui Gao
+  - Yingying Li
+  - Ji Wu
+  - Wei Li
+  - Jiayu Chen
+  - Huayu Qi
+  - Guangdun Peng
+  - Hongjie Yao
+  publisher: Cell Proliferation
+  date: '2021-03-05'
+  link: https://doi.org/hbnjw4
   image: https://onlinelibrary.wiley.com/cms/asset/1caa3acd-f08d-4075-b9f9-c4384011360a/cpr13000-fig-0001-m.jpg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Using single-cell and spatial transcriptomes to understand stem cell lineage specification during early embryo development"
+  type: paper
+  tags:
+  - RNA Helicase
+  - Neonatal Gonocytes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1146/annurev-genom-120219-083220
+  title: Using Single-Cell and Spatial Transcriptomes to Understand Stem Cell Lineage
+    Specification During Early Embryo Development
   authors:
-    - Guangdun Peng*†
-    - Guizhong Cui
-    - Jincan Ke
-    - Naihe Jing†
-  date: 2020-08-31
-  publisher: Annual review of genomics and human genetics
+  - Guangdun Peng
+  - Guizhong Cui
+  - Jincan Ke
+  - Naihe Jing
+  publisher: Annual Review of Genomics and Human Genetics
+  date: '2020-08-31'
+  link: https://doi.org/ggtxp8
   image: https://www.annualreviews.org/docserver/fulltext/genom/21/1/gg210163.f2.gif
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Molecular architecture of lineage allocation and tissue organization in early mouse embryo"
+  type: paper
+  tags:
+  - Lineage Specification
+  - Review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-019-1469-8
+  title: Molecular architecture of lineage allocation and tissue organization in early
+    mouse embryo
   authors:
-    - Guangdun Peng*†
-    - Shengbao Suo*
-    - Guizhong Cui*
-    - Fang Yu*
-    - Ran Wang
-    - Jun Chen
-    - Shirui Chen
-    - Zhiwen Liu
-    - Guoyu Chen
-    - Yun Qian
-    - Patrick PL Tam
-    - Jing-Dong J Han†
-    - Naihe Jing†
-  date: 2019-08-22
+  - Guangdun Peng
+  - Shengbao Suo
+  - Guizhong Cui
+  - Fang Yu
+  - Ran Wang
+  - Jun Chen
+  - Shirui Chen
+  - Zhiwen Liu
+  - Guoyu Chen
+  - Yun Qian
+  - Patrick P. L. Tam
+  - Jing-Dong J. Han
+  - Naihe Jing
   publisher: Nature
+  date: '2019-08-22'
+  link: https://doi.org/gf54bj
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-019-1469-8/MediaObjects/41586_2019_1469_Fig1_HTML.png?as=webp
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Dissecting primate early post-implantation development using long-term in vitro embryo culture"
+  type: paper
+  tags:
+  - Lineage Allocation
+  - Mouse Embryo
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.aaw5754
+  title: Dissecting primate early post-implantation development using long-term in
+    vitro embryo culture
   authors:
-    - Yuyu Niu*
-    - Nianqin Sun*
-    - Chang Li*
-    - Ying Lei*
-    - Zhihao Huang
-    - Jun Wu
-    - Chenyang Si
-    - Xi Dai
-    - Chuanyu Liu
-    - Jingkuan Wei
-    - Longqi Liu
-    - Su Feng
-    - Yu Kang
-    - Wei Si
-    - Hong Wang
-    - E Zhang
-    - Lu Zhao
-    - Ziwei Li
-    - Xi Luo
-    - Guizhong Cui
-    - Guangdun Peng
-    - Juan Carlos Izpisúa Belmonte†
-    - Weizhi Ji†
-    - Tao Tan†
-  date: 2019-11-15
+  - Yuyu Niu
+  - Nianqin Sun
+  - Chang Li
+  - Ying Lei
+  - Zhihao Huang
+  - Jun Wu
+  - Chenyang Si
+  - Xi Dai
+  - Chuanyu Liu
+  - Jingkuan Wei
+  - Longqi Liu
+  - Su Feng
+  - Yu Kang
+  - Wei Si
+  - Hong Wang
+  - E. Zhang
+  - Lu Zhao
+  - Ziwei Li
+  - Xi Luo
+  - Guizhong Cui
+  - Guangdun Peng
+  - "Juan Carlos Izpis\xFAa Belmonte"
+  - Weizhi Ji
+  - Tao Tan
   publisher: Science
+  date: '2019-11-15'
+  link: https://doi.org/ddn3
   image: https://www.science.org/cms/10.1126/science.aaw5754/asset/319dd568-c1e5-4871-a31a-092d1c9e5892/assets/graphic/366_aaw5754_fa.jpeg
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Comments on 'Molecular architecture of lineage allocation and tissue organization in early mouse embryo'"
+  type: paper
+  tags:
+  - Primate Development
+  - Post-implantation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/jmcb/mjz101
+  title: "Comments on \u2018Molecular architecture of lineage allocation and tissue\
+    \ organization in early mouse embryo\u2019"
   authors:
-    - Guizhong Cui*
-    - Naihe Jing†
-    - Guangdun Peng†
-  date: 2019-11-22
+  - Guizhong Cui
+  - Naihe Jing
+  - Guangdun Peng
   publisher: Journal of Molecular Cell Biology
+  date: '2019-11-22'
+  link: https://doi.org/hbnjw5
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jmcb/11/11/10.1093_jmcb_mjz101/3/m_mjz101f1.jpeg?Expires=1771579039&Signature=n7~1arZAqJ3~y3x0L5zpzlqwo~w8~VFTR1weIufGx3AG3F8YGyu2LYunHHqEzA8XmIQvxKUitHqnO1ePUThRPbJfCUr3kYFwfxGra4siH7vnnGkU~cpmdF6E~DdhtLXqRJMJz5PcUyYtIFjKOsmpxg-bh5shwzvnwIFp2qEHvyXnMZOUIzX9DNvMYEt0eNLdXHmtG0VPm8gBXX4xDWFp-Z63bfg0oOKqzLliMnBhmxCfijIwQkDaI4zND9MrYQnW~7arzrUpYTgUV3WjZ9tYci1atlOai4CR6XCVHEqna~am19JtzguDsVzt54pZvZckDrSzH-C--hoDTTU5ZGeDKw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  plugin: orcid.py
-  file: orcid.yaml
-
-- title: "Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq"
+  type: paper
+  tags:
+  - Commentary
+  - Mouse Embryo
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/nprot.2017.003
+  title: Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
   authors:
-    - Jun Chen*
-    - Shengbao Suo
-    - Patrick PL Tam
-    - Jing-Dong J Han
-    - Guangdun Peng†
-    - Naihe Jing†
-  date: 2017-02-16
+  - Jun Chen
+  - Shengbao Suo
+  - Patrick PL Tam
+  - Jing-Dong J Han
+  - Guangdun Peng
+  - Naihe Jing
   publisher: Nature Protocols
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fnprot.2017.003/MediaObjects/41596_2017_Article_BFnprot2017003_Fig1_HTML.jpg?
-  plugin: orcid.py
-  file: orcid.yaml
+  date: '2017-02-16'
+  link: https://doi.org/f9qz7f
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038/nprot.2017.003/MediaObjects/41596_2017_Article_BFnprot2017003_Fig1_HTML.jpg?
+  type: paper
+  tags:
+  - Geo-seq
+  - Protocol
+  plugin: sources.py
+  file: sources.yaml
