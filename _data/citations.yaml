@@ -324,7 +324,7 @@
   orcid: 0000-0002-8586-0637
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-023-01884-1/MediaObjects/41592_2023_1884_Fig1_HTML.png?as=webp
+  image: ./images/misarseq.jpg
   type: paper
   buttons:
   - type: github
@@ -378,7 +378,7 @@
   orcid: 0000-0002-8586-0637
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-40155-7/MediaObjects/41467_2023_40155_Fig1_HTML.png?as=webp
+  image: ./images/3dim.jpg
   type: paper
   tags:
   - 3D Architecture
