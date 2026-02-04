@@ -23,7 +23,7 @@
     - Stem Cells
 
 - id: doi:10.1038/s41467-025-61667-4
-  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-61667-4/MediaObjects/41467_2025_61667_Fig1_HTML.png?as=webp"
+  image: "./images/cmap.jpg"
   date: 2025-07-15
   type: paper
   buttons:
