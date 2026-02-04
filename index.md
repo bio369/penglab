@@ -1,10 +1,10 @@
 ---
 ---
 
-# Lab Website Template
+# ABOUT US
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+We are a dynamic research group dedicated to unraveling the mysteries of cellular lineage, the blueprint of life that defines how cells originate, evolve, and function across time and space. Rooted in the fundamental principles of the cell theory, our lab focuses on decoding the precise mechanisms underlying cellular identity, lineage commitment, and fate transitions. By capturing and manipulating the multidimensional information of cell lineages, we aim to uncover the logic of development, disease, aging, and regeneration.
+
 
 {%
   include button.html
@@ -24,7 +24,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research integrates cutting-edge single-cell multi-omics, lineage tracing, spatial transcriptomics, bioinformatics, artificial intelligence, and organoid technologies. We are driven by the goal to map and model the functional and regulatory dynamics of cells within living systems—from embryos to adult tissues—and to translate these insights into novel strategies for tissue repair, organ reconstruction, and regenerative medicine.
 
 {%
   include button.html
@@ -39,15 +39,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab has developed innovative spatial omics methods and generated high-resolution spatiotemporal molecular atlases of post-implantation mouse embryogenesis and brain development. We have uncovered key regulatory networks in pluripotent stem cells and identified novel tissue stem cells with potential for organ regeneration. Our work has been published in leading journals including Nature, Nature Methods, Nature Genetics, Nature Communications, and Cell Reports, and has been recognized among the “Top 10 Advances in Life Sciences in China (2019)” and the “Top 10 Advances in Bioinformatics in China (2019).”
 
 {%
   include button.html
@@ -62,9 +62,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/achievements.jpg"
   link="projects"
-  title="Our Projects"
+  title="Achievements"
   flip=true
   style="bare"
   text=text

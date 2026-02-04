@@ -7,9 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome motivated students, postdoctoral researchers, technicians, research scientists and undergraduate internships with backgrounds in biology, medicine, bioinformatics, computational science, engineering, or related fields. For Master or Ph.D. students, please check the official programs of [GIBH](https://gibh.cas.cn/). If you are passionate about exploring the frontiers of cellular lineage biology and regenerative medicine, we encourage you to contact us. And hope you can become a part of the PengLab family!
+
 
 {%
   include button.html
