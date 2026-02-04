@@ -49,22 +49,15 @@ Our research integrates cutting-edge single-cell multi-omics, lineage tracing, s
 
 Our lab has developed innovative spatial omics methods and generated high-resolution spatiotemporal molecular atlases of post-implantation mouse embryogenesis and brain development. We have uncovered key regulatory networks in pluripotent stem cells and identified novel tissue stem cells with potential for organ regeneration. Our work has been published in leading journals including *Nature, Nature Methods, Nature Genetics, Nature Communications, Cell Reports*, etc. and has been recognized among the “Top 10 Advances in Life Sciences in China (2019)” and the “Top 10 Advances in Bioinformatics in China (2019).”
 
-<!-- {%
+{%
   include button.html
   link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%} -->
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
 %}
+
 
 
 {% endcapture %}
