@@ -117,7 +117,7 @@
     - Astrocyte Atlas
 
 - id: doi:10.1038/s41592-023-01884-1
-  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-023-01884-1/MediaObjects/41592_2023_1884_Fig1_HTML.png?as=webp"
+  image: "./images/misarseq.jpg"
   date: 2023-07-31
   type: paper
   buttons:
@@ -136,7 +136,7 @@
     - Progenitor Status
 
 - id: doi:10.1038/s41467-023-40155-7
-  image: "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-40155-7/MediaObjects/41467_2023_40155_Fig1_HTML.png?as=webp"
+  image: "./images/3dim.jpg"
   date: 2023-04-03
   type: paper
   tags:
