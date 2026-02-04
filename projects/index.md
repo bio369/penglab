@@ -17,7 +17,7 @@ Our lab has developed innovative spatial omics methods and generated high-resolu
 
 ## Featured
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" style="small"%}
 
 {% include section.html %}
 
