@@ -15,6 +15,7 @@ Our research integrates cutting-edge single-cell multi-omics, lineage tracing, s
 
 {% include citation.html lookup="Simultaneous profiling of spatial gene expression and chromatin accessibility during mouse brain development" style="rich" %}
 {% include citation.html lookup="Three-dimensional molecular architecture of mouse organogenesis" style="rich" %}
+{% include citation.html lookup="Dual-nuclease single-cell lineage tracing by Cas9 and Cas12a" style="rich" %}
 
 {% include section.html %}
 

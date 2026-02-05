@@ -9,6 +9,13 @@ nav:
 
 We welcome motivated students, postdoctoral researchers, technicians, research scientists and undergraduate internships with backgrounds in biology, medicine, bioinformatics, computational science, engineering, or related fields. For Master or Ph.D. students, please check the official programs of [GIBH](https://gibh.cas.cn/). If you are passionate about exploring the frontiers of cellular lineage biology and regenerative medicine, we encourage you to contact us. And hope you can become a part of the PengLab family!
 
+{%
+  include figure.html
+  image="images/wechat.jpg"
+  caption="WeChat official accounts of PengLab"
+%}
+
+
 
 {%
   include button.html
@@ -54,7 +61,7 @@ We welcome motivated students, postdoctoral researchers, technicians, research s
 {% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html dark=true %}
-
+<!-- 
 {% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
@@ -71,6 +78,6 @@ sed do eiusmod tempor
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+{% endcapture %} -->
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
