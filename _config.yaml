@@ -10,7 +10,7 @@ proofer: false
 links:
   email: peng_guangdun@gibh.ac.cn
   orcid: 0000-0002-8586-0637
-  google-scholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en&oi=ao
+  # google-scholar: https://scholar.google.com/citations?user=s7XddBgAAAAJ&hl=en&oi=ao
   github: gpenglab
 
 ### jekyll settings
