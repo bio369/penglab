@@ -9,4 +9,4 @@ links:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hi, I'm Zhao Wanling, the Lab Manager. I graduated with a Master's in Regenerative Medicine from Jinan University and joined the Peng Lab in June 2022. I aim to be a bridge, facilitating communication and collaboration within our research group.

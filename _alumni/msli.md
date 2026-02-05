@@ -1,18 +1,10 @@
 ---
-name: Yeyong Zhou
-image: images/gyz.png
-role: Associate Researcher
-affiliation: Guangzhou Institutes of Biomedicine and Health, Chinese Academy of Sciences
+name: Meishi Li
+image: images/lms.png
+role: phd
+affiliation: Chinese University of Hong Kong (CUHK)
 
 links:
   orcid: 0009-0003-7401-8131
   
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
