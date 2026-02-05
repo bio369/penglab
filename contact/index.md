@@ -13,6 +13,8 @@ We welcome motivated students, postdoctoral researchers, technicians, research s
   include figure.html
   image="images/wechat.jpg"
   caption="WeChat official accounts of PengLab"
+  width="300"
+  height="auto"
 %}
 
 
