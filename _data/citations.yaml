@@ -129,6 +129,34 @@
   tags:
   - Nanotechnology
   - Molecular Biosensing
+- id: doi:10.1016/j.devcel.2024.06.016
+  title: A spatiotemporal molecular atlas of mouse spinal cord injury identifies a
+    distinct astrocyte subpopulation and therapeutic potential of IGFBP2
+  authors:
+  - Zeqing Wang
+  - Zhuxia Li
+  - Tianle Luan
+  - Guizhong Cui
+  - Shunpan Shu
+  - Yiyao Liang
+  - Kai Zhang
+  - Jingshu Xiao
+  - Wei Yu
+  - Jihong Cui
+  - Ang Li
+  - Guangdun Peng
+  - Yanshan Fang
+  publisher: Developmental Cell
+  date: '2024-10-21'
+  link: https://doi.org/gt46xj
+  orcid: 0000-0002-8586-0637
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.cell.com/cms/10.1016/j.devcel.2024.06.016/asset/e3887f76-4f1b-41e2-babb-f0d450c9fb54/main.assets/fx1_lrg.jpg
+  type: paper
+  tags:
+  - Spinal Cord Injury
+  - Astrocyte Atlas
 - id: doi:10.1101/2024.09.06.611564
   title: Learning phenotype associated signature in spatial transcriptomics with PASSAGE
   authors:
@@ -2124,33 +2152,6 @@
   tags:
   - Osteoarthritis
   - Cartilage Degeneration
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.devcel.2024.06.016
-  title: A spatiotemporal molecular atlas of mouse spinal cord injury identifies a
-    distinct astrocyte subpopulation and therapeutic potential of IGFBP2
-  authors:
-  - Zeqing Wang
-  - Zhuxia Li
-  - Tianle Luan
-  - Guizhong Cui
-  - Shunpan Shu
-  - Yiyao Liang
-  - Kai Zhang
-  - Jingshu Xiao
-  - Wei Yu
-  - Jihong Cui
-  - Ang Li
-  - Guangdun Peng
-  - Yanshan Fang
-  publisher: Developmental Cell
-  date: '2024-10-21'
-  link: https://doi.org/gt46xj
-  image: https://www.cell.com/cms/10.1016/j.devcel.2024.06.016/asset/e3887f76-4f1b-41e2-babb-f0d450c9fb54/main.assets/fx1_lrg.jpg
-  type: paper
-  tags:
-  - Spinal Cord Injury
-  - Astrocyte Atlas
   plugin: sources.py
   file: sources.yaml
 - id: doi:/10.1186/s13619-022-00149-0
