@@ -7,3 +7,4 @@ role: ms
 
 ---
 
+I'm Shuaimao, a first-year master's student at the Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences. My research focus is currently undecided. My motto is: Learn well, sleep well.
